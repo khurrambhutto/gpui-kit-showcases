@@ -1,0 +1,16 @@
+{
+  "id": "scope-linux",
+  "name": "Scope",
+  "author": "khurrambhutto",
+  "description": "A Linux desktop app that puts apps from APT, Snap, Flatpak, AppImage, and desktop launchers into one searchable list, with preview-first uninstall and update.",
+  "category": "system",
+  "platforms": [
+    "Linux"
+  ],
+  "website": "https://khurrambhutto.github.io/scope/",
+  "source": "https://github.com/khurrambhutto/scope",
+  "publishedAt": "2026-10-11T20:30:00+08:00",
+  "previews": [
+    "preview0.png"
+  ]
+}
